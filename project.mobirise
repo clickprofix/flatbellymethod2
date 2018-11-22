@@ -515,7 +515,11 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#cc2952"
             }
           },
           "_name": "header7",
@@ -561,6 +565,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ff3366"
             }
           },
           "_name": "header7",
